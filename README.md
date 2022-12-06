@@ -1,3 +1,4 @@
+https://medium.com/@NALSengineering/flutter-x%C3%A2y-d%E1%BB%B1ng-base-project-ho%C3%A0n-h%E1%BA%A3o-t%E1%BB%AB-a-%C4%91%E1%BA%BFn-%C3%A1-ph%E1%BA%A7n-3-clean-architecture-t%E1%BB%9B-ch%E1%BB%8Dn-c%E1%BA%ADu-87ed563b911b
 # Flutter Bloc - Clean Architecture
 
 Flutter project using clean architecture and bloc pattern.
